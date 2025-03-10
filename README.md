@@ -4,6 +4,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=oswald&weight=200&duration=1500&pause=500&color=0BF700FF&background=7F000000&center=true&width=435&lines=Diego+'spork1on'+Bavutti;33+years+old;computer+scientist+to+be;back-end+dev" alt="Typing SVG" /></a>
 </div>
 
+<div align="center">
+<img height="250em" weight="210em" src="https://i.pinimg.com/736x/9d/01/22/9d0122db5050e77c75085aca0727c6a4.jpg"/>
+</div>
+
 ## About me
 👽 1991 Computer Addict  
 🇧🇷 From Londrina/PR, living in Brasília/DF  
