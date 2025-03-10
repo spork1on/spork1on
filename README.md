@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1> 
 
-<!--
-**spork1on/spork1on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=oswald&weight=200&duration=1500&pause=500&color=0BF700FF&background=7F000000&center=true&width=435&lines=Diego+'spork1on'+Bavutti;33+years+old;computer+scientist+to+be;back-end+dev" alt="Typing SVG" /></a>
+</div>
 
-Here are some ideas to get you started:
+## About me
+👽 1991 Computer Addict  
+🇧🇷 From Londrina/PR, living in Brasília/DF  
+🚔 Police  
+💬 I speak Portuguese and English  
+💡 Turning challenges into opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔥 Things that light me up
+🛡️ CyberSec  
+🕮 Machine Learning  
+🌌 Deep Learning  
+🧠 Neural Networks  
+🤖 Robotics  
+🕹️ Games
+
+
+
+<h2 align="center">My Skills</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+</div>
+
+
+<div align="center"> <h3>Keep on coding...</h3> </div>
