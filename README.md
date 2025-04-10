@@ -10,7 +10,8 @@
 
 ## About me
 👽 1991 Computer Addict  
-🇧🇷 From Londrina/PR, living in Brasília/DF  
+🇧🇷 From Londrina/PR, living in Brasília/DF
+⚖️ Former Lawyer
 🚔 Police  
 💬 I speak Portuguese and English  
 💡 Turning challenges into opportunities
