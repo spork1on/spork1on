@@ -19,8 +19,8 @@
 
 ## 🔥 Things that light me up
 🛡️ CyberSec  
-⚙️ Back-end 
-🤖 Robotics / AI 
+⚙️ Back-end  
+🤖 Robotics / AI  
 🕹️ Games
 
 
