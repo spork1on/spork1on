@@ -19,10 +19,8 @@
 
 ## 🔥 Things that light me up
 🛡️ CyberSec  
-🕮 Machine Learning  
-🌌 Deep Learning  
-🧠 Neural Networks  
-🤖 Robotics  
+⚙️ Back-end 
+🤖 Robotics / AI 
 🕹️ Games
 
 
