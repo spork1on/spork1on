@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1> 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=oswald&weight=200&duration=1500&pause=500&color=0BF700FF&background=7F000000&center=true&width=435&lines=Diego+'spork1on'+Bavutti;34+years+old;computer+scientist+to+be;back-end+dev" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=oswald&weight=200&duration=1500&pause=500&color=0BF700FF&background=7F000000&center=true&width=435&lines=Diego+'spork1on'+Bavutti;34+years+old;computer+scientist+to+be;Linux+admin" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -12,15 +12,15 @@
 👽 1991 Computer Addict  
 🇧🇷 From Londrina/PR, living in Brasília/DF  
 ⚖️ Former Lawyer  
-🚔 Police  
+💻 Computer science  
 💬 I speak Portuguese and English  
 💡 Turning challenges into opportunities
 
 
 ## 🔥 Things that light me up
+🐧 Linux  
 🛡️ CyberSec  
 ⚙️ Back-end  
-🤖 Robotics / AI  
 🕹️ Games
 
 
