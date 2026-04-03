@@ -19,8 +19,8 @@
 
 ## 🔥 Things that light me up
 🐧 Linux  
-🛡️ DevOps/SRE  
-⚙️ Automation  
+⚙️ Low level engineering  
+🤖 Automation  
 🕹️ Games
 
 
